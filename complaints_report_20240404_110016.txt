@@ -1,0 +1,9 @@
+Complaints Resolution Report
+Generated on: 20240404_110016
+
+Findings and Insights:
+ - Before hyperparameter tuning, the model accuracy was 81.00%.
+ - After hyperparameter tuning, the model accuracy improved to 88.00%.
+ - The error analysis showed 1034 misclassified samples before tuning and 712 after tuning.
+ - Recommendations: Use Bag of Words (BOW) with the best hyperparameters for optimal performance.
+
